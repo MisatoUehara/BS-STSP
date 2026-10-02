@@ -1,6 +1,7 @@
-# BS_STSP - Battery Swap Stochastic Traveling Salesman Problem
+# BS_STSP -Battery Swap Stochastic Traveling Salesman Problem Under Mileage Uncertainty
 
-All code, data and results for the paper "Modeling Battery Swap Stochastic Traveling Salesman Problem with Logic-Based Benders Decomposition".
+
+Code, data and results for the paper "Battery Swap Stochastic Traveling Salesman Problem Under Mileage Uncertainty".
 
 
 ## Structure
