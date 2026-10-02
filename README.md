@@ -66,10 +66,10 @@ They are summarized in Table 4 in our paper.
 - **model_B&C.py** - model in branch and check (B&C) formulation, exact model
   
 - **model_B&C-DP.py** - model in B&C formulation and the subproblem is solved by dynamic programming (DP), exact model
-  
-- **model_B&C-DP-ACs.py** - model in B&C formulation and the simple feasibility cut and optimality cut are replaced with analytical cuts (ACs, including exact feasibility cut and inexact optimality cut), inexact model
-  
-- **model_B&C-DP-AFC.py** - model in B&C formulation and only simple feasibility cut is replaced with analytical feasibility cut (AFC), replace model_B&C-DP-ACs.py especially when B=100, exact model
+
+- **model_B&C-DP-AFC.py** - model in B&C formulation and only simple feasibility cut is replaced with analytical feasibility cut (AFC), exact model
+
+- **model_B&C-DP-ACs.py** - model in B&C formulation and the simple feasibility cut and optimality cut are replaced with analytical cuts (ACs, including exact feasibility cut and restricted optimality cut), heuristic model
 
 
 ## Acknowledgments
